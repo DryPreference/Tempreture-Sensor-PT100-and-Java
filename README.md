@@ -1,2 +1,10 @@
 # Tempreture-Sensor-PT100-and-Java
 This project will focus on building a functuning Tempreture sensor using a PT100, java and a raspberry pi.
+
+This file will be updated as the project progresses.
+
+
+1. Design circuits
+2. Java application
+3. Enbed into Raspberry pi
+4. Write HTML to display Tempretures
