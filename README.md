@@ -14,5 +14,5 @@ Circuit design has all of the files for the circuit used in this project. Curren
 
 Java application has the current version of the Java code. Currently it cointains:
 
-1.Version V1.0
+1. Version V1.0
 
