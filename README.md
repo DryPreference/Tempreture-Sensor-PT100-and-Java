@@ -6,7 +6,7 @@ This file will be updated as the project progresses.
 
 1. Circuit design 
 2. Java application
-3. Enbed into Raspberry pi
+3. Enbed into Raspberry pi or Ardurino
 4. Write HTML to display Tempretures
 
 
