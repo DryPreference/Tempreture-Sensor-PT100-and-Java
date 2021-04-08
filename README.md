@@ -5,7 +5,7 @@ This file will be updated as the project progresses. The files for this project 
 
 1. Circuit design 
 2. Java application
-3. Enbed into Raspberry pi
+3. Enbed into Raspberry pi or Ardurino
 4. Write HTML to display Tempretures
 
 Java application has the current version of the Java code. Currently it cointains:
